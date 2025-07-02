@@ -30,6 +30,9 @@ export default function Home() {
               <li>
                 <Link href="/pages/about">About</Link>
               </li>
+              <li>
+                <Link href="/pages/register">Register</Link>
+              </li>
             </ul>
           </div>
           <a className="btn btn-ghost text-xl">daisyUI</a>
@@ -39,6 +42,9 @@ export default function Home() {
             <li>
               <Link href="/pages/about">About</Link>
             </li>
+             <li>
+                <Link href="/pages/register">Register</Link>
+              </li>
           </ul>
         </div>
         <div className="navbar-end">
