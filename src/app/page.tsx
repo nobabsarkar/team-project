@@ -31,7 +31,7 @@ export default function Home() {
                 <Link href="/pages/about">About</Link>
               </li>
               <li>
-                <Link href="/pages/register">Register</Link>
+                <Link href="/pages/register">Registers</Link>
               </li>
             </ul>
           </div>
@@ -43,7 +43,7 @@ export default function Home() {
               <Link href="/pages/about">About</Link>
             </li>
              <li>
-                <Link href="/pages/register">Register</Link>
+                <Link href="/pages/register">Registers</Link>
               </li>
           </ul>
         </div>
