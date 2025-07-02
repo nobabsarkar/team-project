@@ -31,7 +31,7 @@ export default function Home() {
                 <Link href="/pages/about">About</Link>
               </li>
               <li>
-                <Link href="/pages/login">Login</Link>
+                <Link href="/pages/contact">Contact</Link>
               </li>
             </ul>
           </div>
@@ -43,8 +43,8 @@ export default function Home() {
               <Link href="/pages/about">About</Link>
             </li>
             <li>
-                <Link href="/pages/login">Login</Link>
-              </li>
+              <Link href="/pages/contact">Contact</Link>
+            </li>
           </ul>
         </div>
         <div className="navbar-end">
